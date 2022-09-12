@@ -1,0 +1,46 @@
+ClickBait: 'IRON_INGOT'       #Input a material type here to be used to summon the supply crate
+ClickBaitName: 'Chicken'      #Set an Items Display Name
+InventoryName: 'Supply Crate' #Enter a name here to be used as all spawned supply crate's inventory name
+ArraySize:
+  Items1:
+    Material: 'DIRT'
+    ItemName: 'GOLDY'
+    MinAmount: 1
+    MaxAmount: 1
+    Chance: 100
+  Items2:
+    Material: 'STONE'
+    ItemName: 'TURKEY'
+    MinAmount: 2
+    MaxAmount: 4    
+    Chance: 40
+  Items3:
+    Material: 'DIAMOND'
+    ItemName: 'Shiny'
+    MinAmount: 1
+    MaxAmount: 2
+    Chance: 12
+  Items4:
+    Material: 'DIAMOND_SWORD'
+    ItemName: 'ShinySwing'
+    MinAmount: 1
+    MaxAmount: 1
+    Chance: 5
+  Items5:
+    Material: 'DIAMOND_AXE'
+    ItemName: 'Shiny Chop'
+    MinAmount: 1
+    MaxAmount: 1
+    Chance: 5
+  Items6:
+    Material: 'GOLDEN_APPLE'
+    ItemName: 'Golden Noms'
+    MinAmount: 1
+    MaxAmount: 1
+    Chance: 3
+  Items7:
+    Material: 'ENCHANTED_GOLDEN_APPLE'
+    ItemName: 'Shiny Noms'
+    MinAmount: 1
+    MaxAmount: 1
+    Chance: 1

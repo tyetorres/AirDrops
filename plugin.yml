@@ -1,0 +1,18 @@
+name: AirDrops
+main: me.masterplayert.airdrops.Drop
+version: 1.0
+api-version: 1.13
+author: MasterPlayerT
+commands:
+   ad       :
+      description: Displays some options
+      usage : |
+          /ad
+   airdrop  :
+      description: Displays some options
+      usage : |
+          /airdrop
+permissions:
+  airdrop-use:
+    description: Allows use command
+    default: op
